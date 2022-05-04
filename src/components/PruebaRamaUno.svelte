@@ -1,5 +1,7 @@
 <script>
     console.log("asd");
 
-    console.log("Cambios subidos desde el master con la ayuda de merge");
+    console.log("Cambios subidos desde el master con la ayuda de git merge");
+
+    console.log("prueba con git fetch");
 </script>
